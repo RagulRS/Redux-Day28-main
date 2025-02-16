@@ -82,8 +82,7 @@ The application will be available at **http://localhost:3000**
 ---
 
 ## 📷 Screenshots
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page)
-![Product Page](https://via.placeholder.com/800x400?text=Product+Page)
+
 ![image](https://github.com/user-attachments/assets/cfc7c7fb-d111-4359-81bb-07ce278250e0)
 
 
@@ -106,6 +105,6 @@ This project is licensed under the **MIT License**.
 
 ## 📧 Contact
 For any queries or suggestions, feel free to reach out:
-📩 Email: your.email@example.com  
-🔗 GitHub: [yourusername](https://github.com/yourusername)
+📩 Email: ragulsingh6245@gmail.com
+🔗 GitHub: [RAGUL SINGH D](https://github.com/RagulRS)
 
